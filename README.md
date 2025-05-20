@@ -12,8 +12,9 @@ Feel free to connect with me—I’d love to discuss innovative projects and ide
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on HuntTheAceReactVersion
-- 🌱 I’m currently learning more about Redux and state management. 
+- 🔭 I’m currently working on **self-made Seattle sports tracking app**, designed to track player stats, team performance, and live game updates.  
+- 🌱 Through this project, I’m learning about **data management, API integration, and real-time data visualization**.  
+- 💡 I’m also deepening my knowledge of **Redux** for state management, RESTful API design, and responsive UI patterns.  
 
 ## 📊 GitHub Stats
 
